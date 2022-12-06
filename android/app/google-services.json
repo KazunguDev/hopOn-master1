@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778916758441",
+    "firebase_url": "https://skillwell-d4dec-default-rtdb.firebaseio.com",
+    "project_id": "skillwell-d4dec",
+    "storage_bucket": "skillwell-d4dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778916758441:android:d7368e5a305f9b9dca7ab8",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778916758441-3soqb4et9q76g9p8v4ap3fs9hg1mcff0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiQ6a_kh1KIS5AXmBPMA2MFxeYF4wU-9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778916758441-3soqb4et9q76g9p8v4ap3fs9hg1mcff0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778916758441-t3p574q1r6iu74ubpmkonairc90aldg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vehicleSharingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
